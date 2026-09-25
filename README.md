@@ -16,4 +16,3 @@ O GeoMentor é um agente de Inteligência Artificial integrado no Telegram, dese
 ## 📂 Estrutura deste Repositório
 - `system_prompt.md`: O cérebro comportamental do agente e regras de trava pedagógica.
 - `knowledge_base_ufc.md`: O mapeamento estruturado da matriz curricular de Geologia da UFC.
--
