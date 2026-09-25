@@ -4,7 +4,7 @@ O GeoMentor é um agente de Inteligência Artificial integrado no Telegram, dese
 
 ## ⚙️ Arquitetura e Tecnologias
 - **Plataforma:** Coze
-- **LLM Base:** GPT-4o-mini / Gemini 1.5 Flash (Suporte Multimodal)
+- **LLM Base:** GPT-4o-mini (Suporte Multimodal)
 - **Interface:** Telegram Bot API
 - **Técnica:** Prompt Engineering Avançado + RAG (Base de Conhecimento Curricular)
 
