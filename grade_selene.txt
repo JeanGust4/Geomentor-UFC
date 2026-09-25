@@ -54,4 +54,3 @@
 - [ ] Geologia Ambiental, Legislação e Riscos Geológicos
 - [ ] Geologia de Campo / Mapeamento Geológico (Campanhas integradas de mapeamento)
 - [ ] Trabalho de Conclusão de Curso (TCC) e Estágio Supervisionado
--
